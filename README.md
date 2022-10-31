@@ -6,7 +6,7 @@ Provides private rooms with access by code
 
 ## Installation
 
-`sh install.sh`
+`npm i`
 
 ## Usage
 
